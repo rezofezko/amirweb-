@@ -30,3 +30,18 @@ button:hover
 {
     border-color: #bebebe;
 }
+
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+.back
+.for
+.play while mouseover -> {
+    border-color: #bebebe;
+}
